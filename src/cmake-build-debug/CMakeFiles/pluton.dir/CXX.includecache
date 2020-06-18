@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/bpassaportis/CLionProjects/pluton/src/main.cpp
+iostream
+-
+string
+-
+algorithm
+-
+pluton_input.h
+C:/Users/bpassaportis/CLionProjects/pluton/src/pluton_input.h
+
+C:/Users/bpassaportis/CLionProjects/pluton/src/open_browser.h
+cstdlib
+-
+
+C:/Users/bpassaportis/CLionProjects/pluton/src/pluton_input.h
+pluton_response.h
+C:/Users/bpassaportis/CLionProjects/pluton/src/pluton_response.h
+open_browser.h
+C:/Users/bpassaportis/CLionProjects/pluton/src/open_browser.h
+
+C:/Users/bpassaportis/CLionProjects/pluton/src/pluton_response.h
+random
+-
+chrono
+-
+
