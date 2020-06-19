@@ -1,4 +1,4 @@
-<p style="text-align: center;"></p><img src="./media/wordmark.svg" alt="Pluton Logo"></p>
+<div style="text-align: center;"><img src="./media/wordmark.svg" alt="Pluton Logo"></div>
 
 A Unique Virtual Assistant
 
