@@ -1,7 +1,4 @@
-Pluton
-======
-
-<img src="./media/wordmark.svg" alt="Pluton Logo">
+<p style="text-align: center;"></p><img src="./media/wordmark.svg" alt="Pluton Logo"></p>
 
 A Unique Virtual Assistant
 
