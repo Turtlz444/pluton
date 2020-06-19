@@ -1,6 +1,8 @@
 Pluton
 ======
 
+<img src="./media/wordmark.svg" alt="Pluton Logo">
+
 A Unique Virtual Assistant
 
 Building
