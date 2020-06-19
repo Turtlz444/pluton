@@ -8,7 +8,7 @@ Building
 Run this from your terminal:
 
 ```
-$ git clone "https://github.com/SimpleBinary/pluton.git"
+$ git clone "https://github.com/plutonai/pluton.git"
 $ cd ./pluton/src
 $ cmake .
 $ make
