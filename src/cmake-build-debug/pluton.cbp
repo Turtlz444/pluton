@@ -92,6 +92,9 @@
 		<Unit filename="C:/Users/bpassaportis/CLionProjects/pluton/src/pluton_response.h">
 			<Option target="pluton"/>
 		</Unit>
+		<Unit filename="C:/Users/bpassaportis/CLionProjects/pluton/src/search_data.h">
+			<Option target="pluton"/>
+		</Unit>
 		<Unit filename="C:/Users/bpassaportis/CLionProjects/pluton/src/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\"/>
 		</Unit>

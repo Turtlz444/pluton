@@ -3,4 +3,4 @@ project(pluton)
 
 set(CMAKE_CXX_STANDARD 17)
 
-add_executable(pluton main.cpp pluton_response.h pluton_input.h open_browser.h)
+add_executable(pluton main.cpp pluton_response.h pluton_input.h open_browser.h search_data.h)
