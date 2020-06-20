@@ -6,7 +6,6 @@
 #define PLUTON_RESPONSE_H
 
 #include <random>
-#include <chrono>
 
 std::string random_output() {
     static std::mt19937 mt(std::chrono::system_clock::to_time_t(std::chrono::system_clock::now()));
