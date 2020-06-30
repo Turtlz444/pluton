@@ -1,3 +1,6 @@
+Hey I've tried to contact you a few times but it hasnt worked. You might not remember me (its been a few years) but im SimplyKomplex on scratch. Contact my discord heccing_commie#5508. Me, invisible, and a few other scratchers are working on a game in Godot (basically unity but different) and im sure everyone would be fine with you joining. We have a website (pretty new, still a few bugs) amberstudios.github.io please respond via discord
+
+
 # Contributor Covenant Code of Conduct
 
 ## Our Pledge
